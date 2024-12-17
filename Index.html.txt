@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeoVortexLab - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <h1>NeoVortexLab</h1>
+            <p>Innovative Solutions | Bioinformatics | Research | Futuristic Tech</p>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Welcome to NeoVortexLab, a hub for pioneering projects in bioinformatics, research, and emerging technologies. I specialize in creating interactive tools, data-driven insights, and solutions for challenges in healthcare, education, and research.
+            </p>
+            <img src="https://source.unsplash.com/400x250/?technology,science" alt="Tech Image">
+        </div>
+    </section>
+
+    <!-- Courses Section -->
+    <section class="courses">
+        <div class="container">
+            <h2>My Courses</h2>
+            <div class="course-list">
+                <div class="course-item">
+                    <img src="https://source.unsplash.com/200x150/?coding,learning" alt="Course Image">
+                    <h3>Bioinformatics Tools</h3>
+                    <p>Learn essential bioinformatics tools to analyze NGS data and more.</p>
+                </div>
+                <div class="course-item">
+                    <img src="https://source.unsplash.com/200x150/?data,analysis" alt="Course Image">
+                    <h3>Power BI Dashboard</h3>
+                    <p>Master the art of creating AI-powered interactive dashboards with Power BI.</p>
+                </div>
+                <div class="course-item">
+                    <img src="https://source.unsplash.com/200x150/?medicine,research" alt="Course Image">
+                    <h3>Personalized Medicine</h3>
+                    <p>Explore NGS applications in research and personalized medicine.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Blog Section -->
+    <section class="blog">
+        <div class="container">
+            <h2>My Blog</h2>
+            <div class="blog-posts">
+                <div class="post-item">
+                    <img src="https://source.unsplash.com/300x200/?biology,tech" alt="Blog Image">
+                    <h3>Understanding Neurodegenerative Diseases</h3>
+                    <p>Exploring therapeutic approaches for Alzheimer's, FTD, and more.</p>
+                </div>
+                <div class="post-item">
+                    <img src="https://source.unsplash.com/300x200/?AI,data" alt="Blog Image">
+                    <h3>AI in Bioinformatics</h3>
+                    <p>How AI and data analytics transform healthcare research.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>Contact Me: <a href="mailto:tripathidhar2025@gmail.com">tripathidhar2025@gmail.com</a></p>
+            <p>Connect on <a href="https://www.linkedin.com/in/prasun-dhar-tripathi-934214180" target="_blank">LinkedIn</a></p>
+            <p>&copy; 2024 NeoVortexLab | All Rights Reserved</p>
+        </div>
+    </footer>
+</body>
+</html>
